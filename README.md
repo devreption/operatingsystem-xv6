@@ -1,7 +1,7 @@
 # operatingsystem-xv6
 ### Assignment 1 - System Call
 
-Nama  : Arief Rahman
+Nama  : Arief Rahman <br>
 NIM   : 1313619037
 
 Sistem Informasi 114
