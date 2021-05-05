@@ -1,4 +1,4 @@
-##Pada halaman ini terdapat bukti dari program yang sudah berhasil dijalankan
+## Pada halaman ini terdapat bukti dari program yang sudah berhasil dijalankan
 
 ### - Compilation Test
 ![nomor1](1_Compilation_Test_ss0_make.png)
@@ -25,4 +25,4 @@
 
 ### - System Call Tracing
 
-![nomor5](5_System Call_ss9_tracing.png)
+![nomor5](5_System_Call_ss9_tracing.png)
