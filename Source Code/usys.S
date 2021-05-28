@@ -1,6 +1,7 @@
 #include "syscall.h"
 #include "traps.h"
 
+
 #define SYSCALL(name) \
   .globl name; \
   name: \
@@ -31,9 +32,3 @@ SYSCALL(sleep)
 SYSCALL(uptime)
 SYSCALL(halt)
 SYSCALL(date)
-SYSCALL(getuid)
-SYSCALL(getgid)
-SYSCALL(getppid)
-SYSCALL(setuid)
-SYSCALL(setgid)
-SYSCALL(getprocs)
